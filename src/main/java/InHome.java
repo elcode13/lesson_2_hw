@@ -53,7 +53,6 @@ public class InHome {
         }
         System.out.println();
     }
-
     private static void Plus3() {
         int[] arr = new int[8];
         int c = 0;
